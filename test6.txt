@@ -1,0 +1,50 @@
+
+ 1/6 Time for Glynn is   1.20853218e+00
+Transition amplitude from ( 1 * 6^5) samples is 7.04234481e-02
+
+ 1/6 Time for Glynn is   1.03929353e+00
+Transition amplitude from ( 2 * 6^5) samples is 7.04234481e-02
+
+ 1/6 Time for Glynn is   1.04369453e+00
+Transition amplitude from ( 3 * 6^5) samples is 7.04234481e-02
+
+ 1/6 Time for Glynn is   1.21185485e+00
+Transition amplitude from ( 4 * 6^5) samples is 7.04234481e-02
+
+ 1/6 Time for Glynn is   1.13862863e+00
+Transition amplitude from ( 5 * 6^5) samples is 7.04234481e-02
+
+ 1/6 Time for Glynn is   1.04864175e+00
+Transition amplitude from ( 6 * 6^5) samples is 7.04234481e-02
+Total time for Glynn is   6.69292944e+00
+Transition amplitude for Glynn is 7.04234481e-02
+
+ Time is   6.94009462e+01
+0.950 	 0.998 
+
+ Time is   7.23386126e+01
+0.961 	 0.977 
+
+ Time is   6.61499362e+01
+0.973 	 0.848 
+
+ Time is   6.63211549e+01
+0.984 	 0.440 
+
+ Time is   6.65571883e+01
+0.995 	 0.050 
+
+ Time is   6.75512019e+02
+0.950 	 1.000 
+
+ Time is   7.34305550e+02
+0.961 	 1.000 
+
+ Time is   8.02339796e+02
+0.973 	 1.000 
+
+ Time is   7.74985963e+02
+0.984 	 0.861 
+
+ Time is   6.89800595e+02
+0.995 	 0.015 

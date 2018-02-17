@@ -1,0 +1,16 @@
+Transition amplitude from 1*10^5 samples is 1.15594409e-02
+1/10^5 time for Glynn is 1.91397633e+01 
+
+Transition amplitude from 2*10^5 samples is 1.02163684e-02
+Transition amplitude from 3*10^5 samples is 6.73084781e-03
+Transition amplitude from 4*10^5 samples is 2.80323542e-03
+Transition amplitude from 5*10^5 samples is 4.85185594e-03
+Transition amplitude from 6*10^5 samples is 8.22526344e-03
+Transition amplitude from 7*10^5 samples is 9.04424539e-03
+Transition amplitude from 8*10^5 samples is 7.79163840e-03
+Transition amplitude from 9*10^5 samples is 6.09684980e-03
+Transition amplitude from 10*10^5 samples is 4.72138942e-03
+Transition amplitude from 10^6 samples is 4.72138942e-03
+
+Transition amplitude for Gurvits is 1.99853777e-03
+Total time for Gurvits is 1.16561056e+03

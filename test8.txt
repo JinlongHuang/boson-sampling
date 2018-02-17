@@ -1,0 +1,30 @@
+i1     1   4.75819495e+01
+abs(sum) is 6.38360071e+03
+transAmp average over ( 1 * 8^6) is 2.43515042e-02
+i1     2   5.27906676e+01
+abs(sum) is 1.26806294e+04
+transAmp average over ( 2 * 8^6) is 2.41863812e-02
+i1     3   5.00717133e+01
+abs(sum) is 1.74541491e+04
+transAmp average over ( 3 * 8^6) is 2.21940982e-02
+i1     4   4.87692420e+01
+abs(sum) is 2.05760097e+04
+transAmp average over ( 4 * 8^6) is 1.96228120e-02
+i1     5   5.14907677e+01
+abs(sum) is 2.34151016e+04
+transAmp average over ( 5 * 8^6) is 1.78643048e-02
+i1     6   5.14407790e+01
+abs(sum) is 2.71809826e+04
+transAmp average over ( 6 * 8^6) is 1.72812033e-02
+i1     7   5.14463369e+01
+abs(sum) is 3.17529796e+04
+transAmp average over ( 7 * 8^6) is 1.73040007e-02
+i1     8   5.00050942e+01
+abs(sum) is 3.67445430e+04
+transAmp average over ( 8 * 8^6) is 1.75211634e-02
+
+Transition amplitude for Glynn from 8^7 samples is 1.75211634e-02
+1/8 time for Glynn is 4.000407536e+02
+
+Transition amplitude for Gurvits is 1.18368729e-02
+Total time for Gurvits is 9.20556920e+01

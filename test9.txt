@@ -1,0 +1,6 @@
+Transition amplitude for Glynn from 1*9^6 samples is 8.91815468e-03
+1/9^3 time for Glynn is 1.07447822e+02 
+
+
+Transition amplitude for Gurvits is 1.39053774e-03
+Total time for Gurvits is 1.01133807e+03

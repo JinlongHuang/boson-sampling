@@ -1,0 +1,36 @@
+i0     1   1.69288343e+01
+abs(sum) is 4.98110448e+03
+TransAmp from ( 1 * 7^6) samples is 4.23386895e-02
+ 
+ i0     2   1.70591702e+01
+abs(sum) is 9.96220897e+03
+TransAmp from ( 2 * 7^6) samples is 4.23386895e-02
+ 
+ i0     3   1.70270376e+01
+abs(sum) is 1.49433135e+04
+TransAmp from ( 3 * 7^6) samples is 4.23386895e-02
+ 
+ i0     4   1.67983423e+01
+abs(sum) is 1.99244179e+04
+TransAmp from ( 4 * 7^6) samples is 4.23386895e-02
+ 
+ i0     5   1.68609447e+01
+abs(sum) is 2.49055224e+04
+TransAmp from ( 5 * 7^6) samples is 4.23386895e-02
+ 
+ i0     6   1.69628616e+01
+abs(sum) is 2.98866269e+04
+TransAmp from ( 6 * 7^6) samples is 4.23386895e-02
+ 
+ i0     7   1.70192739e+01
+abs(sum) is 3.48677314e+04
+TransAmp from ( 7 * 7^6) samples is 4.23386895e-02
+ 
+ 
+Transition amplitude for Glynn from 7^7 samples is 4.23386895e-02
+
+Total time for Glynn is   1.70192739e+01
+
+Transition amplitude for Gurvits is 4.19313084e-02
+Total time for Gurvits is 7.28910671e+01
+
